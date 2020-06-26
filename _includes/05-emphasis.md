@@ -1,3 +1,3 @@
-**python** :heart:
+**_python** :heart:
 **java**
 **c**
